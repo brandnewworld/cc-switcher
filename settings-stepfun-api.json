@@ -1,0 +1,9 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://api.stepfun.com",
+    "ANTHROPIC_MODEL": "step-3.5-flash-2603",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "step-3.5-flash-2603",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "step-3.5-flash-2603",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "step-3.5-flash"
+  }
+}
