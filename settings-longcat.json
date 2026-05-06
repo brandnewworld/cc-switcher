@@ -3,7 +3,7 @@
     "ANTHROPIC_BASE_URL": "https://api.longcat.chat/anthropic",
     "ANTHROPIC_MODEL": "LongCat-Flash-Chat",
     "ANTHROPIC_DEFAULT_OPUS_MODEL": "LongCat-2.0-Preview",
-    "ANTHROPIC_DEFAULT_SONNET_MODEL": "LongCat-Flash-Omni-2603",
-    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "LongCat-Flash-Thinking-2601"
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "LongCat-Flash-Thinking-2601",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "LongCat-Flash-Chat"
   }
 }

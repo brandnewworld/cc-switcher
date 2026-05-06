@@ -1,0 +1,6 @@
+{
+  "env": {
+    "ANTHROPIC_MODEL": "claude-opus-4-7",
+    "CLAUDE_CODE_SUBAGENT_MODEL": "claude-opus-4-7"
+  }
+}
