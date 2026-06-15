@@ -88,7 +88,7 @@ cc-switcher() {
             fi
 
             # 清理旧的认证环境变量，避免不同供应商间 token 污染
-            unset ANTHROPIC_API_KEY
+            #unset ANTHROPIC_API_KEY
             unset ANTHROPIC_AUTH_TOKEN
             source "$env_file"
 
