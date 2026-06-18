@@ -89,7 +89,7 @@ cc-switcher() {
 
             # 清理旧的认证环境变量，避免不同供应商间 token 污染
             #unset ANTHROPIC_API_KEY
-            unset ANTHROPIC_AUTH_TOKEN
+            #unset ANTHROPIC_AUTH_TOKEN
             source "$env_file"
 
             # 核心动作：合并公共配置 + 供应商配置，写入 ~/.claude/settings.json
